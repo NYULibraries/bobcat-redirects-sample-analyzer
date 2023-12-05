@@ -1,0 +1,26 @@
+{
+    "/permalink/f/1bthiq5/CUSFX1000000000694362": {
+        "key": "permalink--f--1bthiq5--CUSFX1000000000694362",
+        "testCaseGroup": "libguides",
+        "fetchTimestamp": "11/30/2023, 10:08:37 PM",
+        "sampleFiles": {
+            "bobcat-redirects": "libguides/bobcat-redirects/permalink--f--1bthiq5--CUSFX1000000000694362.html"
+        }
+    },
+    "/permalink/f/1bthiq5/NSMARCIT2550000000028042": {
+        "key": "permalink--f--1bthiq5--NSMARCIT2550000000028042",
+        "testCaseGroup": "libguides",
+        "fetchTimestamp": "11/30/2023, 7:00:57 PM",
+        "sampleFiles": {
+            "bobcat-redirects": "libguides/bobcat-redirects/permalink--f--1bthiq5--NSMARCIT2550000000028042.html"
+        }
+    },
+    "/permalink/f/1bthiq5/NSMARCIT2670000000498081": {
+        "key": "permalink--f--1bthiq5--NSMARCIT2670000000498081",
+        "testCaseGroup": "libguides",
+        "fetchTimestamp": "11/30/2023, 7:01:02 PM",
+        "sampleFiles": {
+            "bobcat-redirects": "libguides/bobcat-redirects/permalink--f--1bthiq5--NSMARCIT2670000000498081.html"
+        }
+    }
+}
